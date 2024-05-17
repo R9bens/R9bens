@@ -1,6 +1,6 @@
 ¡Hola! Mi nombre es Ruben.
 ![Imagen de perfil](https://url-de-tu-imagen.jpg)
-<h2 style="background-color: aqua;">Sobre Mí</h2>
+<h2>Sobre Mí</h2>
 Soy un desarrollador que siempre le ha atraido la tecnologia y la innovacion.
 Actualmente estoy cursando el primer año del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (CFGS DAW).
 Tambien he trabajado en OfiJaenSat como tecnico de hardware y software, e hice el grado medio Sistemas Microinformaticos y Redes (CFGM SMR) y las practicas las hice en Praga, Republica Checa en una empresa llamada 3Demon.
@@ -19,4 +19,5 @@ del proyecto.
 del proyecto.
 
 <h2>Estadísticas de GitHub</h2>
-![Tusestadísticas](https://github-readme-stats.vercel.app/api?username=R9bens&count_private=true&theme=midnight-purple)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=R9bens&count_private=true&theme=midnight-purple)
+![Tusestadísticas](https://github-readme-stats.vercel.app/api?username=R9bens&theme=midnight-purple&show_icons=true)
