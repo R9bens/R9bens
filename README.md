@@ -1,10 +1,12 @@
-# ¡Hola, soy <tu-nombre>! 👋
+# ¡Hola, soy Ruben! 👋
 
 ![Banner](https://ruta-a-tu-banner.jpg)
 
 ## 🌟 Sobre Mí
 
-¡Hola! Soy **<tu-nombre-completo>**, un apasionado desarrollador de software con experiencia en **<tu-especialidad>**. Me encanta aprender nuevas tecnologías y mejorar mis habilidades constantemente. En mi tiempo libre, disfruto de <tus-pasatiempos> y colaborar en proyectos de código abierto.
+Soy un desarrollador que siempre le ha atraido la tecnologia y la innovacion.
+Actualmente estoy cursando el primer año del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (CFGS DAW).
+Tambien he trabajado en OfiJaenSat como tecnico de hardware y software, e hice el grado medio Sistemas Microinformaticos y Redes (CFGM SMR) y las practicas las hice en Praga, Republica Checa en una empresa llamada 3Demon.
 
 ### 🛠️ Tecnologías y Herramientas
 
