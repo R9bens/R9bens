@@ -49,7 +49,7 @@ Tambien he trabajado en OfiJaenSat como tecnico de hardware y software, e hice e
 | **Desarrollo Web**      | Intermedio    |
 | **Bases de Datos**      | Principiante    |
 
-### Mis Estadisticas
+### 📈 Mis Estadisticas
 
 ![Mis estadisticas](https://github-readme-stats.vercel.app/api?username=R9bens&show_icons=true&theme=gruvbox)
 
