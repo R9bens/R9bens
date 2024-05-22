@@ -35,12 +35,12 @@ Tambien he trabajado en OfiJaenSat como tecnico de hardware y software, e hice e
 - [**Proyecto 1**](https://github.com/tu-usuario/proyecto1): 
   ![Repo Size](https://img.shields.io/github/repo-size/tu-usuario/proyecto1)
   ![Last Commit](https://img.shields.io/github/last-commit/tu-usuario/proyecto1)
-  - Descripción breve del proyecto. Utilizado en <caso-de-uso>.
+  - Descripción breve del proyecto. Utilizado en .
 
 - [**Proyecto 2**](https://github.com/tu-usuario/proyecto2):
   ![Repo Size](https://img.shields.io/github/repo-size/tu-usuario/proyecto2)
   ![Last Commit](https://img.shields.io/github/last-commit/tu-usuario/proyecto2)
-  - Descripción breve del proyecto. Implementado con <tecnologías-usadas>.
+  - Descripción breve del proyecto. Implementado con .
 
 ### 💼 Experiencia
 
@@ -48,6 +48,10 @@ Tambien he trabajado en OfiJaenSat como tecnico de hardware y software, e hice e
 |-------------------------|-------------|
 | **Desarrollo Web**      | Intermedio    |
 | **Bases de Datos**      | Principiante    |
+
+### Mis Estadisticas
+
+![Mis estadisticas](https://github-readme-stats.vercel.app/api?username=R9bens&show_icons=true&theme=gruvbox)
 
 ### 🧑‍💻 Ejemplo de Código
 
