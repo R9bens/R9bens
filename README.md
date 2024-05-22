@@ -32,15 +32,10 @@ Tambien he trabajado en OfiJaenSat como tecnico de hardware y software, e hice e
 
 ### 🚀 Proyectos Destacados
 
-- [**Proyecto 1**](https://github.com/tu-usuario/proyecto1): 
-  ![Repo Size](https://img.shields.io/github/repo-size/tu-usuario/proyecto1)
-  ![Last Commit](https://img.shields.io/github/last-commit/tu-usuario/proyecto1)
-  - Descripción breve del proyecto. Utilizado en .
+- [**Proyecto 1**](https://github.com/R9bens/Formulario12): Es un formulario .
 
-- [**Proyecto 2**](https://github.com/tu-usuario/proyecto2):
-  ![Repo Size](https://img.shields.io/github/repo-size/tu-usuario/proyecto2)
-  ![Last Commit](https://img.shields.io/github/last-commit/tu-usuario/proyecto2)
-  - Descripción breve del proyecto. Implementado con .
+
+- [**Proyecto 2**](https://github.com/tu-usuario/proyecto2): Descripción breve del proyecto.
 
 ### 💼 Experiencia
 
