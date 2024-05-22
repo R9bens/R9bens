@@ -39,6 +39,16 @@ Tambien he trabajado en OfiJaenSat como tecnico de hardware y software, e hice e
 
 ### 💼 Experiencia
 
+<table>
+  <th>
+    <td>Area</td>
+  </th>
+  <tr>
+    <td>Desarrollo Web</td>
+    <td>Intermedio</td>
+  </tr>
+</table>
+
 | Área                    | Nivel       |
 |-------------------------|-------------|
 | **Desarrollo Web**      | Intermedio    |
