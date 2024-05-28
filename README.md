@@ -1,8 +1,5 @@
 # ¡Hola, soy Ruben! 👋
 
-![Banner](https://github.com/R9bens/banner/f.PNG)
-![https://github.com/R9bens](./banner/f.PNG)
-
 ## 🌟 Sobre Mí
 
 Soy un desarrollador que siempre le ha atraido la tecnologia y la innovacion.
