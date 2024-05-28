@@ -1,6 +1,7 @@
 # ¡Hola, soy Ruben! 👋
 
-![Banner](https://ruta-a-tu-banner.jpg)
+![Banner](https://github.com/R9bens/banner/f.PNG)
+![https://github.com/R9bens](./banner/f.PNG)
 
 ## 🌟 Sobre Mí
 
@@ -39,15 +40,6 @@ Tambien he trabajado en OfiJaenSat como tecnico de hardware y software, e hice e
 
 ### 💼 Experiencia
 
-<table>
-  <th>
-    <td>Area</td>
-  </th>
-  <tr>
-    <td>Desarrollo Web</td>
-    <td>Intermedio</td>
-  </tr>
-</table>
 
 | Área                    | Nivel       |
 |-------------------------|-------------|
