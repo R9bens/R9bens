@@ -32,7 +32,7 @@ Tambien he trabajado en OfiJaenSat como tecnico de hardware y software, e hice e
 
 ### 🚀 Proyectos Destacados
 
-- [**Proyecto 1**](https://github.com/R9bens/Formulario12): Es un formulario .
+- [**Proyecto 1**](https://github.com/R9bens/Formulario): Es un formulario .
 
 
 - [**Proyecto 2**](https://github.com/tu-usuario/proyecto2): Descripción breve del proyecto.
