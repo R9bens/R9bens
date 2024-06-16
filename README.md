@@ -40,7 +40,7 @@ Tambien he trabajado en OfiJaenSat como tecnico de hardware y software, e hice e
 
 | Área                    | Nivel       |
 |-------------------------|-------------|
-| **Desarrollo Web**      | Intermedio    |
+| **Desarrollo Web**      | Principiante    |
 | **Bases de Datos**      | Principiante    |
 
 ### 📈 Mis Estadisticas
